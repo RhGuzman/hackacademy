@@ -1,0 +1,17 @@
+Ejercicio 1
+//Ejercicio variables//  
+const example = 'some string'
+console.log(example);
+
+Ejercicio 2
+// ejercicio string//
+
+const someString = 'this is string'
+console.log(someString);
+
+Ejercicio 3
+// ejercicio arrays//
+const pizzaToppings = [
+    'tomato sauce','cheese','pepperoni'
+] 
+console.log(pizzaToppings)
